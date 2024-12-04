@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "title": "Flood Relief in Sylhet",
+      "image": "https://i.ibb.co.com/KqjVH2D/images-1.png",
+      "description": "Providing emergency aid and shelter to flood-affected families in Sylhet.",
+      "status": "Ongoing",
+      "contactInfo": "floodrelief-sylhet@example.com",
+      "division": "Sylhet"
+    },
+    
+    {
+      "id": 2,
+      "title": "Rohingya Refugee Assistance",
+      "image": "https://i.ibb.co.com/5B3Myc5/images-2.png",
+      "description": "Supporting Rohingya refugees with food and healthcare in Cox's Bazar.",
+      "status": "Ongoing",
+      "contactInfo": "rohingya-support@example.com",
+      "division": "Chattogram"
+    },
+    {
+      "id": 3,
+      "title": "Healthcare for Rural Communities",
+      "image": "https://i.ibb.co.com/bzw8FD9/map-of-dhaka-colorful-geometric-illustration-design-high-detailed-map-of-bangladesh-free-vector.jpg",
+      "description": "Providing mobile healthcare services in remote areas of Dhaka.",
+      "status": "Ongoing",
+      "contactInfo": "healthcare-dhaka@example.com",
+      "division": "Dhaka"
+    },
+    {
+      "id": 4,
+      "title": "Educational Support for Underprivileged Children",
+      "image": "https://i.ibb.co.com/KqjVH2D/images-1.png",
+      "description": "Funding educational resources for children in rural areas of Sylhet.",
+      "status": "Completed",
+      "contactInfo": "education-sylhet@example.com",
+      "division": "Sylhet"
+    },
+    {
+      "id": 5,
+      "title": "Clean Water Initiative in Dhaka",
+      "image": "https://i.ibb.co.com/bzw8FD9/map-of-dhaka-colorful-geometric-illustration-design-high-detailed-map-of-bangladesh-free-vector.jpg",
+      "description": "Installing water purification systems for urban slum communities in Dhaka.",
+      "status": "Completed",
+      "contactInfo": "cleanwater-dhaka@example.com",
+      "division": "Dhaka"
+    },
+    {
+      "id": 6,
+      "title": "Mangrove Preservation Project",
+      "image": "https://i.ibb.co.com/zmfLn7h/download-1.png",
+      "description": "Protecting the Sundarbans mangrove forest and its ecosystem in Khulna.",
+      "status": "Ongoing",
+      "contactInfo": "mangrove-project@example.com",
+      "division": "Khulna"
+    },
+    {
+      "id": 7,
+      "title": "Winter Clothes Distribution in Rangpur",
+      "image": "https://i.ibb.co.com/8cNdr5d/download.png",
+      "description": "Distributing warm clothes to vulnerable families during winter in Rangpur.",
+      "status": "Completed",
+      "contactInfo": "winterhelp-rangpur@example.com",
+      "division": "Rangpur"
+    },
+    {
+      "id": 8,
+      "title": "Cyclone Recovery in Chattogram",
+      "image": "https://i.ibb.co.com/5B3Myc5/images-2.png",
+      "description": "Rebuilding homes and infrastructure affected by recent cyclones in Chattogram.",
+      "status": "Ongoing",
+      "contactInfo": "cyclone-recovery@example.com",
+      "division": "Chattogram"
+    },
+    {
+      "id": 9,
+      "title": "Food Security Program in Rangpur",
+      "image": "https://i.ibb.co.com/8cNdr5d/download.png",
+      "description": "Ensuring food supplies for underprivileged communities in Rangpur.",
+      "status": "Ongoing",
+      "contactInfo": "foodsecurity-rangpur@example.com",
+      "division": "Rangpur"
+    },
+    {
+      "id": 10,
+      "title": "Youth Empowerment in Rajshahi",
+      "image": "https://i.ibb.co.com/PMMxBPJ/images-3.png",
+      "description": "Providing skill development programs for unemployed youth in Rajshahi.",
+      "status": "Ongoing",
+      "contactInfo": "youth-empowerment@example.com",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 11,
+      "title": "Flood-Resilient Housing in Barishal",
+      "image": "https://i.ibb.co.com/nQQH9nj/images.png",
+      "description": "Building flood-resistant homes for vulnerable families in Barishal.",
+      "status": "Ongoing",
+      "contactInfo": "housing-barishal@example.com",
+      "division": "Barishal"
+    },
+    {
+      "id": 12,
+      "title": "Agricultural Aid for Farmers",
+      "image": "https://i.ibb.co.com/zmfLn7h/download-1.png",
+      "description": "Supporting small-scale farmers with tools and resources in Khulna.",
+      "status": "Ongoing",
+      "contactInfo": "farmers-aid@example.com",
+      "division": "Khulna"
+    },
+    {
+      "id": 13,
+      "title": "Safe Sanitation Project",
+      "image": "https://i.ibb.co.com/nQQH9nj/images.png",
+      "description": "Constructing safe and hygienic sanitation facilities in Barishal.",
+      "status": "Ongoing",
+      "contactInfo": "sanitation-barishal@example.com",
+      "division": "Barishal"
+    },
+    {
+      "id": 14,
+      "title": "Women Empowerment in Mymensingh",
+      "image": "https://i.ibb.co.com/ts01PX1/map-mymensingh-colorful-geometric-illustration-design-high-detailed-vector-bangladesh-283265528-1.webp",
+      "description": "Supporting women-led small businesses in Mymensingh.",
+      "status": "Ongoing",
+      "contactInfo": "women-empowerment@example.com",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 15,
+      "title": "Tree Plantation Campaign",
+      "image": "https://i.ibb.co.com/PMMxBPJ/images-3.png",
+      "description": "Promoting afforestation efforts in rural areas of Rajshahi.",
+      "status": "Completed",
+      "contactInfo": "tree-plantation@example.com",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 16,
+      "title": "Maternal Health Program",
+      "image": "https://i.ibb.co.com/ts01PX1/map-mymensingh-colorful-geometric-illustration-design-high-detailed-vector-bangladesh-283265528-1.webp",
+      "description": "Improving maternal healthcare access in rural areas of Mymensingh.",
+      "status": "Completed",
+      "contactInfo": "maternal-health@example.com",
+      "division": "Mymensingh"
+    }
+  ]
+  
